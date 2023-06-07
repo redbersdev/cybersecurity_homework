@@ -1,0 +1,112 @@
+adobeaemcloud.com
+experiencecloud.adobe.com
+creative.adobe.com
+marketo.com
+adminconsole.adobe.com
+lightroom.adobe.com
+acrobat.com
+omniture.com
+fonts.adobe.com
+experience.adobe.com
+com.adobe.lrmobile critical
+exchange.adobe.com
+spark.adobe.com
+photoshop.com
+magentocommerce.com
+account.magento.com
+assets.adobe.com
+behance.net
+portfolio.adobe.com
+adobecqms.net
+account.adobe.com
+magento.com
+applications.frame.io
+imagine.magento.com
+repo.magento.com
+xd.adobe.com
+api-v2.frame.io
+mobilemarketing.adobe.com
+substance3d.com
+stream.frame.io
+marketing.adobe.com
+marketplace.magento.com
+bizible.com
+magento.com
+creativecloud.adobe.com
+components.frame.io
+gps.echosign.com
+adobeid.services.adobe.com
+*.adobe.io
+socket.frame.io
+adobe.com
+shop.adobe.com
+*.proofhq.com
+licensing.adobe.com
+Adobe AIR
+create.adobe.com
+coldfusion.adobe.com
+Substance 3D
+cbconnection.adobe.com
+Audition
+Premiere Elements
+magentolive.com
+secure.echosign.com
+accounts.adobe.com
+Premiere Pro
+documents.adobe.com
+contributor.stock.adobe.com
+Premiere Rush
+developer.frame.io
+documentcloud.adobe.com
+marketing-assets.adobe.com
+Adobe Experience Manager (AEM)
+Workfront Outlook Plugin
+partners.adobe.com
+Lightroom Classic
+accounts.frame.io
+*.phonegap.com
+com.adobe.reader
+licenses.adobe.com
+captivateprime.adobe.com
+com.frame.FrameIO
+updates.frame.io
+adobeconnect.com
+nicetryapril.na1.echosignsandbox.com
+Media Encoder
+cloud.acrobat.com
+Character Animator
+platform.adobe.com
+status.adobe.com
+commerce.adobe.com
+app.frame.io
+acrobat.adobe.com
+Framemaker
+ColdFusion
+Flash Player
+theblog.adobe.com
+auth.services.adobe.com
+campaign.adobe.com
+*.tubemogul.com
+Illustrator
+com.adobe.PSMobile
+After Effects
+InCopy
+*.testdrive.workfront.com
+com.adobe.echosign
+edex.adobe.com
+Photoshop
+com.adobe.scan.android
+api.frame.io
+stock.adobe.com
+community.adobe.com
+*.scene7.com
+accounts.magento.cloud
+tt.omtrdc.net
+helpx.adobe.com
+marketo.com
+typekit.com
+com.iphone.workfront
+https://github.com/adobe/*
+adobelogin.com
+acrobatoauth.adobe.com
+mixamo.com

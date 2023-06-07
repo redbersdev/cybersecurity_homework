@@ -1,0 +1,274 @@
+ Domain Name: ADOBEAEMCLOUD.COM
+Registry Domain ID: 1789776442_DOMAIN_COM-VRSN
+Registrar URL: http://www.comlaude.com
+Registrar: Nom-iq Ltd. dba COM LAUDE
+Registrar IANA ID: 470
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +442074218250
+ Domain Name: adobeaemcloud.com
+Registry Domain ID: 1789776442_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 88667350_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 4381272_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 85016017_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 4398626_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 883555642_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: REDACTED FOR PRIVACY
+Tech Email: magentocommerce.com-Tech@anonymised.email
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 248525188_DOMAIN_NET-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 1724040825_DOMAIN_NET-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 1584743965_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: REDACTED FOR PRIVACY
+Tech Email: magento.com-Tech@anonymised.email
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 2029387843_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 126329228_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 1584743965_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: REDACTED FOR PRIVACY
+Tech Email: magento.com-Tech@anonymised.email
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 4364022_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 1525372717_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: REDACTED FOR PRIVACY
+Tech Email: magentolive.com-Tech@anonymised.email
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 509317483_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 88667350_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 515406635_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 1608308889_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Registry Domain ID: 1536102719_DOMAIN_COM-VRSN
+Registrar URL: https://www.comlaude.com
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin Phone: +1.4085366000
+Admin Email: dns-admin@adobe.com
+Tech Phone: +1.4085366000
+Tech Email: dns-admin@adobe.com
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250

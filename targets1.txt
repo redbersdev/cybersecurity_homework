@@ -1,0 +1,116 @@
+adobeaemcloud.com,URL,"",false,true,,,,critical,,2020-07-29 21:44:04 UTC,2023-01-24 13:13:12 UTC
+experiencecloud.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:55:48 UTC,2023-01-24 13:13:15 UTC
+creative.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:51:16 UTC,2023-01-24 13:13:14 UTC
+marketo.com,URL,"",false,true,,,,critical,,2020-07-29 21:44:56 UTC,2023-01-24 13:13:12 UTC
+adminconsole.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:48:47 UTC,2023-01-24 13:13:13 UTC
+lightroom.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:58:17 UTC,2023-05-12 09:02:22 UTC
+acrobat.com,URL,"",false,true,,,,critical,,2020-07-29 21:41:47 UTC,2023-01-24 13:13:11 UTC
+omniture.com,URL,"",false,true,,,,critical,,2020-07-29 21:45:14 UTC,2023-01-24 13:13:12 UTC
+fonts.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:55:56 UTC,2023-01-24 13:13:15 UTC
+experience.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:55:40 UTC,2023-01-24 13:13:15 UTC
+com.adobe.lrmobile critical,,2022-05-27 15:57:01 UTC,2023-01-24 13:13:23 UTC
+exchange.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:54:16 UTC,2023-01-24 13:13:15 UTC
+spark.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:59:53 UTC,2023-01-24 13:13:16 UTC
+photoshop.com,URL,"",false,true,,,,critical,,2020-07-29 21:58:55 UTC,2023-01-24 13:13:16 UTC
+magentocommerce.com,URL,"",true,true,,,,critical,,2021-08-25 21:22:24 UTC,2023-01-24 13:13:10 UTC
+account.magento.com,URL,"",true,true,,,,critical,,2021-08-25 21:24:41 UTC,2023-01-24 13:13:10 UTC
+assets.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:49:18 UTC,2023-01-24 13:13:13 UTC
+behance.net,URL,"",false,true,,,,critical,,2020-07-29 21:49:34 UTC,2023-01-24 13:13:14 UTC
+portfolio.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:59:24 UTC,2023-01-24 13:13:16 UTC
+adobecqms.net,URL,"",false,true,,,,critical,,2020-07-29 21:44:22 UTC,2023-01-24 13:13:12 UTC
+account.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:47:08 UTC,2023-01-24 13:13:12 UTC
+magento.com,URL,"",true,true,medium,high,high,critical,,2021-08-25 21:23:17 UTC,2023-01-24 13:13:10 UTC
+applications.frame.io,URL,"",false,true,,,,critical,,2021-12-17 19:13:10 UTC,2023-01-24 13:13:17 UTC
+imagine.magento.com,URL,"",true,true,medium,high,high,critical,,2021-08-25 21:23:32 UTC,2023-01-24 13:13:10 UTC
+repo.magento.com,URL,"",true,true,,,,critical,,2021-08-25 21:22:44 UTC,2023-01-24 13:13:10 UTC
+xd.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 22:01:52 UTC,2023-01-24 13:13:16 UTC
+api-v2.frame.io,URL,"",false,true,,,,critical,,2021-12-17 19:10:48 UTC,2023-01-24 13:13:17 UTC
+mobilemarketing.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:58:40 UTC,2023-01-24 13:13:15 UTC
+substance3d.com,URL,"",false,true,,,,critical,,2020-07-29 22:01:35 UTC,2023-01-24 13:13:16 UTC
+stream.frame.io,URL,"",false,true,,,,critical,,2021-12-17 19:12:11 UTC,2023-01-24 13:13:17 UTC
+marketing.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:58:32 UTC,2023-01-24 13:13:15 UTC
+marketplace.magento.com,URL,"",true,true,,,,critical,,2021-08-25 21:21:51 UTC,2023-01-24 13:13:10 UTC
+bizible.com,URL,"",false,true,,,,critical,,2020-07-29 21:44:39 UTC,2023-01-24 13:13:12 UTC
+magento.com,URL,"",true,true,medium,medium,medium,critical,,2021-08-25 21:23:00 UTC,2023-01-24 13:13:10 UTC
+creativecloud.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:51:23 UTC,2023-01-24 13:13:14 UTC
+components.frame.io,URL,"",false,true,,,,critical,,2021-12-17 19:11:02 UTC,2023-01-24 13:13:17 UTC
+gps.echosign.com,URL,"",false,true,,,,critical,,2020-07-29 21:56:07 UTC,2023-01-24 13:13:15 UTC
+adobeid.services.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:48:55 UTC,2023-01-24 13:13:13 UTC
+*.adobe.io,URL,"",false,true,,,,critical,,2020-07-29 21:43:39 UTC,2023-01-24 13:13:11 UTC
+socket.frame.io,URL,"",false,true,,,,critical,,2021-12-17 19:13:26 UTC,2023-01-24 13:13:17 UTC
+*.adobe.com,URL,"* We are aware that the public code repo available at [https://repo.adobe.com/nexus/content/*] is exposed.  This is expected behavior, and we do not consider it a security vulnerability. 
+* We are aware that anonymous FTP service is available for ftp.adobe.com.  This server is available for general distribution of various publicly available assets.
+",false,true,,,,critical,,2020-07-31 15:52:45 UTC,2023-01-24 13:13:16 UTC
+shop.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:59:44 UTC,2023-01-24 13:13:16 UTC
+*.proofhq.com,URL,"",false,true,,,,critical,,2021-06-03 15:27:42 UTC,2023-01-24 13:13:17 UTC
+XMP Toolkit,DOWNLOADABLE_EXECUTABLES,"",false,true,high,high,high,critical,,2021-05-06 16:26:16 UTC,2023-01-24 13:13:23 UTC
+licensing.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:56:58 UTC,2023-01-24 13:13:15 UTC
+Magento 1 Enterprise (Commerce) and Community (Open Source) Editions,OTHER,"Support for Magento 1 software ended on June 30, 2020, and it is no longer eligible for bounty. ",false,false,,,,critical,,2021-08-25 21:26:54 UTC,2023-01-24 13:13:23 UTC
+Adobe AIR,DOWNLOADABLE_EXECUTABLES,"",false,true,,,,critical,,2020-09-14 20:07:58 UTC,2023-01-24 13:13:22 UTC
+create.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:51:06 UTC,2023-01-24 13:13:14 UTC
+coldfusion.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:50:18 UTC,2023-01-24 13:13:14 UTC
+Substance 3D,DOWNLOADABLE_EXECUTABLES,Please refer to the Creative Cloud Desktop Apps Test Plan in the policy for more info.,false,true,,,,critical,,2023-01-31 20:48:45 UTC,2023-01-31 20:48:45 UTC
+cbconnection.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:50:00 UTC,2023-01-24 13:13:14 UTC
+Audition,DOWNLOADABLE_EXECUTABLES,Please refer to the Creative Cloud Desktop Apps Test Plan in the policy for more info.,false,true,,,,critical,,2020-09-14 20:07:27 UTC,2023-05-12 09:02:23 UTC
+Premiere Elements,DOWNLOADABLE_EXECUTABLES,"",false,true,high,high,high,critical,,2021-08-11 16:25:21 UTC,2023-01-24 13:13:23 UTC
+magentolive.com,URL,"",true,true,medium,high,high,critical,,2021-08-25 21:23:50 UTC,2023-01-24 13:13:10 UTC
+secure.echosign.com,URL,"",false,true,,,,critical,,2020-07-29 21:59:37 UTC,2023-01-24 13:13:16 UTC
+accounts.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:47:27 UTC,2023-01-24 13:13:12 UTC
+Premiere Pro,DOWNLOADABLE_EXECUTABLES,Please refer to the Creative Cloud Desktop Apps Test Plan in the policy for more info.,false,true,,,,critical,,2020-09-14 20:18:14 UTC,2023-05-12 09:02:22 UTC
+documents.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:53:58 UTC,2023-01-24 13:13:14 UTC
+contributor.stock.adobe.com,URL,,false,true,,,,critical,,2023-03-08 16:42:37 UTC,2023-03-08 16:42:37 UTC
+Premiere Rush,DOWNLOADABLE_EXECUTABLES,Please refer to the Creative Cloud Desktop Apps Test Plan in the policy for more info.,false,true,,,,critical,,2021-08-11 16:24:48 UTC,2023-05-12 09:02:23 UTC
+developer.frame.io,URL,"",false,true,,,,critical,,2021-12-17 19:12:55 UTC,2023-01-24 13:13:17 UTC
+documentcloud.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:53:50 UTC,2023-01-24 13:13:14 UTC
+marketing-assets.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:58:24 UTC,2023-01-24 13:13:15 UTC
+Adobe Experience Manager (AEM),DOWNLOADABLE_EXECUTABLES,"",false,true,high,high,high,critical,,2020-09-24 22:16:19 UTC,2023-01-24 13:13:23 UTC
+Workfront Outlook Plugin,OTHER,"",false,true,,,,critical,,2021-06-03 15:29:48 UTC,2023-01-24 13:13:21 UTC
+partners.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:58:47 UTC,2023-01-24 13:13:15 UTC
+Lightroom Classic,DOWNLOADABLE_EXECUTABLES,Please refer to the Creative Cloud Desktop Apps Test Plan in the policy for more info.,false,true,,,,critical,,2021-05-05 15:40:05 UTC,2023-05-12 09:02:22 UTC
+accounts.frame.io,URL,"",false,true,,,,critical,,2021-12-17 19:09:21 UTC,2023-01-24 13:13:17 UTC
+*.phonegap.com,URL,"",false,true,,,,critical,,2020-07-29 21:45:29 UTC,2023-01-24 13:13:12 UTC
+com.adobe.reader,GOOGLE_PLAY_APP_ID,"",false,true,,,,critical,,2020-09-14 20:20:47 UTC,2023-01-24 13:13:21 UTC
+licenses.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:56:49 UTC,2023-01-24 13:13:15 UTC
+captivateprime.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:49:51 UTC,2023-01-24 13:13:14 UTC
+com.frame.FrameIO,APPLE_STORE_APP_ID,"",false,true,,,,critical,,2021-12-17 19:17:24 UTC,2023-05-12 09:02:23 UTC
+updates.frame.io,URL,"",false,true,,,,critical,,2021-12-17 19:12:29 UTC,2023-01-24 13:13:17 UTC
+*.adobeconnect.com,URL,"",false,true,,,,critical,,2020-08-27 16:21:26 UTC,2023-01-24 13:13:17 UTC
+nicetryapril.na1.echosignsandbox.com,URL,,false,true,,,,critical,,2023-04-12 15:23:13 UTC,2023-04-12 15:25:06 UTC
+Media Encoder,DOWNLOADABLE_EXECUTABLES,Please refer to the Creative Cloud Desktop Apps Test Plan in the policy for more info.,false,true,,,,critical,,2020-09-14 20:16:14 UTC,2023-05-12 09:02:23 UTC
+cloud.acrobat.com,URL,"",false,true,,,,critical,,2020-07-29 21:50:10 UTC,2023-01-24 13:13:14 UTC
+Character Animator,DOWNLOADABLE_EXECUTABLES,Please refer to the Creative Cloud Desktop Apps Test Plan in the policy for more info.,false,true,,,,critical,,2020-09-14 20:08:54 UTC,2023-05-12 09:02:23 UTC
+platform.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:59:04 UTC,2023-01-24 13:13:16 UTC
+status.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 22:00:01 UTC,2023-01-24 13:13:16 UTC
+commerce.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:50:28 UTC,2023-01-24 13:13:14 UTC
+app.frame.io,URL,"",false,true,,,,critical,,2021-12-17 19:09:55 UTC,2023-01-24 13:13:17 UTC
+acrobat.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:47:48 UTC,2023-05-12 09:02:22 UTC
+Framemaker,DOWNLOADABLE_EXECUTABLES,"",false,true,,,,critical,,2020-09-14 20:15:02 UTC,2023-01-24 13:13:22 UTC
+ColdFusion,DOWNLOADABLE_EXECUTABLES,"",false,true,,,,critical,,2022-09-02 17:59:27 UTC,2023-01-24 13:13:23 UTC
+Flash Player,DOWNLOADABLE_EXECUTABLES,"",false,true,,,,critical,,2020-09-14 20:10:29 UTC,2023-01-24 13:13:22 UTC
+theblog.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 22:01:43 UTC,2023-01-24 13:13:16 UTC
+auth.services.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:49:26 UTC,2023-01-24 13:13:13 UTC
+campaign.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:49:41 UTC,2023-01-24 13:13:14 UTC
+*.tubemogul.com,URL,"",false,true,,,,critical,,2020-07-29 21:46:00 UTC,2023-01-24 13:13:12 UTC
+Illustrator,DOWNLOADABLE_EXECUTABLES,Please refer to the Creative Cloud Desktop Apps Test Plan in the policy for more info.,false,true,,,,critical,,2020-09-14 20:15:19 UTC,2023-05-12 09:02:22 UTC
+com.adobe.PSMobile,APPLE_STORE_APP_ID,,false,true,,,,critical,,2023-04-27 20:14:36 UTC,2023-04-27 20:14:36 UTC
+After Effects,DOWNLOADABLE_EXECUTABLES,Please refer to the Creative Cloud Desktop Apps Test Plan in the policy for more info.,false,true,,,,critical,,2020-09-14 20:07:00 UTC,2023-05-12 09:02:22 UTC
+InCopy,DOWNLOADABLE_EXECUTABLES,Please refer to the Creative Cloud Desktop Apps Test Plan in the policy for more info.,false,true,,,,critical,,2020-09-14 20:15:35 UTC,2023-05-12 09:02:23 UTC
+*.testdrive.workfront.com,URL,"",false,true,,,,critical,,2021-06-03 15:27:26 UTC,2023-01-24 13:13:17 UTC
+com.adobe.echosign,GOOGLE_PLAY_APP_ID,"",false,true,,,,critical,,2022-05-27 15:55:13 UTC,2023-01-24 13:13:21 UTC
+edex.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:54:07 UTC,2023-01-24 13:13:15 UTC
+Photoshop,DOWNLOADABLE_EXECUTABLES,Please refer to the Creative Cloud Desktop Apps Test Plan in the policy for more info.,false,true,,,,critical,,2020-09-14 20:03:02 UTC,2023-05-12 09:02:22 UTC
+com.adobe.scan.android,GOOGLE_PLAY_APP_ID,"",false,true,,,,critical,,2022-05-27 15:54:06 UTC,2023-01-24 13:13:21 UTC
+api.frame.io,URL,"",false,true,,,,critical,,2021-12-17 19:10:29 UTC,2023-01-24 13:13:17 UTC
+stock.adobe.com,URL,,false,true,,,,critical,,2023-03-08 16:27:17 UTC,2023-03-08 16:27:17 UTC
+community.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:50:57 UTC,2023-01-24 13:13:14 UTC
+*.scene7.com,URL,"",false,true,,,,critical,,2020-08-11 16:39:43 UTC,2023-01-24 13:13:16 UTC
+accounts.magento.cloud,URL,"",true,true,,,,critical,,2021-08-25 21:24:52 UTC,2023-01-24 13:13:10 UTC
+tt.omtrdc.net,URL,"Hint:  the `Session ID` you may see in GET requests is used to group calls into a session, and it carries no sensitive information.  ",false,true,,,,critical,,2020-08-14 21:41:17 UTC,2023-01-24 13:13:16 UTC
+helpx.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:56:40 UTC,2023-01-24 13:13:15 UTC
+marketo.com,URL,,false,true,,,,critical,,2023-05-09 18:15:31 UTC,2023-05-09 18:15:31 UTC
+typekit.com,URL,"",false,true,,,,critical,,2020-07-29 21:46:16 UTC,2023-01-24 13:13:12 UTC
+com.iphone.workfront,APPLE_STORE_APP_ID,"",false,true,,,,critical,,2021-06-03 18:03:30 UTC,2023-05-12 09:02:23 UTC
+https://github.com/adobe/*,SOURCE_CODE,"",false,true,,,,critical,,2021-07-23 18:30:49 UTC,2023-01-24 13:13:21 UTC
+adobelogin.com,URL,"",false,true,,,,critical,,2020-07-29 21:49:03 UTC,2023-01-24 13:13:13 UTC
+acrobatoauth.adobe.com,URL,"",false,true,,,,critical,,2020-07-29 21:48:39 UTC,2023-01-24 13:13:13 UTC
+mixamo.com,URL,"",false,true,,,,critical,,2020-07-29 21:45:04 UTC,2023-01-24 13:13:12 UTC
